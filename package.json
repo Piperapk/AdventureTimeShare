@@ -1,0 +1,47 @@
+{
+  "name": "adventuretime",
+  "version": "1.0.0",
+  "description": "Find your adventure",
+  "author": "Ivan Krushkov",
+  "license": "MIT",
+  "nativescript": {
+    "id": "com.adventuretime.test1",
+    "templateVersion": "v2",
+    "tns-android": {
+      "version": "6.0.2"
+    },
+    "tns-ios": {
+      "version": "6.0.1"
+    }
+  },
+  "dependencies": {
+    "@nativescript/theme": "^2.2.1",
+    "axios": "^0.19.2",
+    "email-validator": "^2.0.4",
+    "nativescript-camera": "^4.5.0",
+    "nativescript-carousel": "^6.1.1",
+    "nativescript-datetimepicker": "^1.2.2",
+    "nativescript-email": "^1.6.0",
+    "nativescript-geolocation": "^5.1.0",
+    "nativescript-google-places-autocomplete": "^1.0.3",
+    "nativescript-imagepicker": "^7.1.0",
+    "nativescript-intl": "^3.0.0",
+    "nativescript-mediafilepicker": "^3.0.1",
+    "nativescript-plugin-firebase": "^10.5.0",
+    "nativescript-ui-autocomplete": "^6.0.0",
+    "nativescript-ui-listview": "^8.0.1",
+    "nativescript-vue": "^2.4.0",
+    "tns-core-modules": "^6.0.0",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "nativescript-dev-webpack": "^1.0.0",
+    "nativescript-vue-template-compiler": "^2.0.0",
+    "nativescript-worker-loader": "~0.9.0",
+    "node-sass": "^4.9.2",
+    "vue-loader": "^15.4.0"
+  }
+}

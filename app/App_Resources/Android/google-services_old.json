@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499673419396",
+    "firebase_url": "https://adventuretime-test1.firebaseio.com",
+    "project_id": "adventuretime-test1",
+    "storage_bucket": "adventuretime-test1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499673419396:android:c944be8ea6fa18b0ecbcd1",
+        "android_client_info": {
+          "package_name": "com.adventuretime.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499673419396-psd6bkcku3c6oop7lndf83ck08lf7hae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Hgad60oflL313F_vI9l4CzrwHKp7SXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499673419396-psd6bkcku3c6oop7lndf83ck08lf7hae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
