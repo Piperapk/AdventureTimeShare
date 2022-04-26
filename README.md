@@ -1,8 +1,15 @@
-# AdventureTime - NativeScript-Vue Application
+# AdventureTime - NativeScript-Vue Application for Travel Sharing
 
-> A native application built with NativeScript-Vue
+A cross-platform full-stack mobile and web application built with NativeScript and Vue.
+Utilising Google Firebase for database, authentication and storage.
 
-## Usage
+My idea was to build a mobile app for a missing market segment to help people find adventures with friends or strangers and cut costs.
+
+Forking and using the repo:
+- GitHub’s Terms of Service apply to this repo so you can freely fork it but id doesn't come with any permissions. 
+- If you want to distribute or use the code commercially please get in touch first. It's not a problem, please just ask first.
+
+## 🛠 Usage 
 
 ``` bash
 # Install dependencies
